@@ -1,6 +1,9 @@
+*.swp
 image-classification/.floydexpt
 image-classification/nohup.out
 .ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
 Untitled.ipynb
 __pycache__/*
-
+cifar-10-batches-py/*
+cifar-10-python.tar.gz
