@@ -1,2 +1,6 @@
-
 image-classification/.floydexpt
+image-classification/nohup.out
+.ipynb_checkpoints/*
+Untitled.ipynb
+__pycache__/*
+
